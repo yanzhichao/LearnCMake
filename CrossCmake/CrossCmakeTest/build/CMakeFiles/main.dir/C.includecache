@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhichao/EmbedLinux/Project/CrossCmakeTest/main.c
+stdio.h
+/home/zhichao/EmbedLinux/Project/CrossCmakeTest/stdio.h
+
