@@ -1,0 +1,3 @@
+/home/zhichao/Myproject/OpencvTest/build/CMakeFiles/edit_cache.dir
+/home/zhichao/Myproject/OpencvTest/build/CMakeFiles/rebuild_cache.dir
+/home/zhichao/Myproject/OpencvTest/build/CMakeFiles/main.dir
