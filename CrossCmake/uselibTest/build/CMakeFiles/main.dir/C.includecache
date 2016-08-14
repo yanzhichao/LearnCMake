@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhichao/EmbedLinux/Project/makelib/lib1/print.h
+
+/home/zhichao/EmbedLinux/Project/makelib/lib2/upper.h
+
+/home/zhichao/EmbedLinux/Project/uselibTest/main.c
+print.h
+/home/zhichao/EmbedLinux/Project/uselibTest/print.h
+upper.h
+/home/zhichao/EmbedLinux/Project/uselibTest/upper.h
+string.h
+/home/zhichao/EmbedLinux/Project/uselibTest/string.h
+stdio.h
+/home/zhichao/EmbedLinux/Project/uselibTest/stdio.h
+

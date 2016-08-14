@@ -1,0 +1,3 @@
+/home/zhichao/EmbedLinux/Project/uselibTest/build/CMakeFiles/edit_cache.dir
+/home/zhichao/EmbedLinux/Project/uselibTest/build/CMakeFiles/rebuild_cache.dir
+/home/zhichao/EmbedLinux/Project/uselibTest/build/CMakeFiles/main.dir

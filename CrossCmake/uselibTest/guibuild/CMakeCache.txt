@@ -1,0 +1,53 @@
+# This is the CMakeCache file.
+# For build in directory: /home/zhichao/EmbedLinux/Project/uselibTest/guibuild
+# You can edit this file to change values found and used by cmake.
+# If you do not want to change any of the values, simply exit the editor.
+# If you do want to change a value, simply edit, save, and exit the editor.
+# The syntax for the file is as follows:
+# KEY:TYPE=VALUE
+# KEY is the name of a variable in the cache.
+# TYPE is a hint to GUIs for the type of VALUE, DO NOT EDIT TYPE!.
+# VALUE is the current value for the KEY.
+
+########################
+# EXTERNAL cache entries
+########################
+
+//CXX compiler.
+CMAKE_CXX_COMPILER:FILEPATH=/home/zhichao/EmbedLinux/opt/FriendlyARM/toolschain/4.5.1/arm-none-linux-gnueabi/bin/g++
+
+//C compiler.
+CMAKE_C_COMPILER:FILEPATH=/home/zhichao/EmbedLinux/opt/FriendlyARM/toolschain/4.5.1/arm-none-linux-gnueabi/bin/gcc
+
+//CMake Find Root Path
+CMAKE_FIND_ROOT_PATH:PATH=/home/zhichao/EmbedLinux/opt/FriendlyARM/toolschain/4.5.1
+
+//CMake Find Include Mode
+CMAKE_FIND_ROOT_PATH_MODE_INCLUDE:STRING=BOTH
+
+//CMake Find Library Mode
+CMAKE_FIND_ROOT_PATH_MODE_LIBRARY:STRING=BOTH
+
+//CMake Find Program Mode
+CMAKE_FIND_ROOT_PATH_MODE_PROGRAM:STRING=BOTH
+
+//CMake System Name
+CMAKE_SYSTEM_NAME:STRING=Linux
+
+//CMake System Version
+CMAKE_SYSTEM_VERSION:STRING=1
+
+
+########################
+# INTERNAL cache entries
+########################
+
+//This is the directory where this CMakeCache.txt was created
+CMAKE_CACHEFILE_DIR:INTERNAL=/home/zhichao/EmbedLinux/Project/uselibTest/guibuild
+//Major version of cmake used to create the current loaded cache
+CMAKE_CACHE_MAJOR_VERSION:INTERNAL=3
+//Minor version of cmake used to create the current loaded cache
+CMAKE_CACHE_MINOR_VERSION:INTERNAL=2
+//Patch version of cmake used to create the current loaded cache
+CMAKE_CACHE_PATCH_VERSION:INTERNAL=2
+
