@@ -1,0 +1,1 @@
+/home/zhichao/EmbedLinux/opt/FriendlyARM/toolschain/4.5.1/bin/arm-linux-g++      CMakeFiles/main.dir/main.cpp.o  -o ../bin/main  -L/home/zhichao/ImageProcee/opencvforarm/armlib -rdynamic -lavcodec -lavdevice -lavfilter -lavformat -lavutil -lpostproc -lswresample -lswscale -lx264 -lxvidcore -lopencv_highgui -lopencv_core -Wl,-rpath,/home/zhichao/ImageProcee/opencvforarm/armlib 

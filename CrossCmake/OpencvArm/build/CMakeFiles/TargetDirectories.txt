@@ -1,0 +1,3 @@
+/home/zhichao/EmbedLinux/Project/OpencvArm/build/CMakeFiles/edit_cache.dir
+/home/zhichao/EmbedLinux/Project/OpencvArm/build/CMakeFiles/rebuild_cache.dir
+/home/zhichao/EmbedLinux/Project/OpencvArm/build/CMakeFiles/main.dir
