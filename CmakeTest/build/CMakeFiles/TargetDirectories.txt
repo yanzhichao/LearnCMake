@@ -1,0 +1,3 @@
+/home/zhichao/Myproject/CmakeTest/build/CMakeFiles/main.dir
+/home/zhichao/Myproject/CmakeTest/build/lib2/CMakeFiles/Upper.dir
+/home/zhichao/Myproject/CmakeTest/build/lib1/CMakeFiles/Print.dir

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhichao/Myproject/CmakeTest/lib2/upper.c
+upper.h
+/home/zhichao/Myproject/CmakeTest/lib2/upper.h
+
+/home/zhichao/Myproject/CmakeTest/lib2/upper.h
+

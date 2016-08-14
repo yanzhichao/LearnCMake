@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -shared -Wl,-soname,libUpper.so -o libUpper.so CMakeFiles/Upper.dir/upper.c.o 

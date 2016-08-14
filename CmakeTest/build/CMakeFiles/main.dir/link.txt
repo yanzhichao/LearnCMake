@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/main.dir/main.c.o  -o ../bin/main -rdynamic lib1/libPrint.a lib2/libUpper.so -Wl,-rpath,/home/zhichao/Myproject/CmakeTest/build/lib2 
