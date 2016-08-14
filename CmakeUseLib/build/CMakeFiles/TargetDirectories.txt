@@ -1,0 +1,3 @@
+/home/zhichao/Myproject/CmakeUseLib/build/CMakeFiles/edit_cache.dir
+/home/zhichao/Myproject/CmakeUseLib/build/CMakeFiles/rebuild_cache.dir
+/home/zhichao/Myproject/CmakeUseLib/build/CMakeFiles/main.dir
