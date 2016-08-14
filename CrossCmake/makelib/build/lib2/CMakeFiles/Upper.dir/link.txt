@@ -1,0 +1,1 @@
+/home/zhichao/EmbedLinux/opt/FriendlyARM/toolschain/4.5.1/bin/arm-linux-gcc  -fPIC   -shared -Wl,-soname,libUpper.so -o libUpper.so CMakeFiles/Upper.dir/upper.c.o 

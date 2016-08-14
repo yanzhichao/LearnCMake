@@ -1,0 +1,1 @@
+/home/zhichao/EmbedLinux/opt/FriendlyARM/toolschain/4.5.1/bin/arm-linux-gcc  -fPIC   -shared -Wl,-soname,libPrint.so -o libPrint.so CMakeFiles/Print.dir/print.c.o ../lib2/libUpper.so -Wl,-rpath,/home/zhichao/EmbedLinux/Project/makelib/build/lib2 

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhichao/EmbedLinux/Project/makelib/lib2/upper.c
+upper.h
+/home/zhichao/EmbedLinux/Project/makelib/lib2/upper.h
+
+/home/zhichao/EmbedLinux/Project/makelib/lib2/upper.h
+

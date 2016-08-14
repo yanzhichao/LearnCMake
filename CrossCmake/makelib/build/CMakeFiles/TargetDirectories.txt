@@ -1,0 +1,2 @@
+/home/zhichao/EmbedLinux/Project/makelib/build/lib2/CMakeFiles/Upper.dir
+/home/zhichao/EmbedLinux/Project/makelib/build/lib1/CMakeFiles/Print.dir

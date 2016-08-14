@@ -1,0 +1,3 @@
+/home/zhichao/EmbedLinux/Project/makelib/lib1/build/CMakeFiles/rebuild_cache.dir
+/home/zhichao/EmbedLinux/Project/makelib/lib1/build/CMakeFiles/edit_cache.dir
+/home/zhichao/EmbedLinux/Project/makelib/lib1/build/CMakeFiles/Print.dir

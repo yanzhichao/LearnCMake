@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -shared -Wl,-soname,libPrint.so -o libPrint.so CMakeFiles/Print.dir/print.c.o -lUpper 
